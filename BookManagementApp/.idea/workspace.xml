@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5aa7b87-14e5-459c-b463-ce9114c886a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RHy5Qfs1qqX3G5eJzXeznCgM6S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SRMapp" />
+  </component>
+  <component name="RunManager">
+    <configuration name="view" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.view" />
+      <module name="BookManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5aa7b87-14e5-459c-b463-ce9114c886a4" name="Default Changelist" comment="" />
+      <created>1569338131582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569338131582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576230059867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.-129.1440.860@0.0.1366.728" timestamp="1576230059867" />
+    <state x="1854" y="11" key="FileChooserDialogImpl" timestamp="1576325999703">
+      <screen x="1366" y="-128" width="1440" height="860" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-128.1440.860@0.0.1366.728" timestamp="1576319000165" />
+    <state x="1854" y="11" key="FileChooserDialogImpl/0.0.1366.728/1366.-128.1440.860@1366.-128.1440.860" timestamp="1576325999703" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-129.1440.860@0.0.1366.728" timestamp="1576230114120" />
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1576331213444">
+      <screen x="1366" y="-128" width="1440" height="860" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-128.1440.860@1366.-128.1440.860" timestamp="1576331213444" />
+    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1576331213444">
+      <screen x="1366" y="-128" width="1440" height="860" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728/1366.-128.1440.860@1366.-128.1440.860" timestamp="1576331213444" />
+    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1576331213444">
+      <screen x="1366" y="-128" width="1440" height="860" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728/1366.-128.1440.860@1366.-128.1440.860" timestamp="1576331213444" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1576331213444">
+      <screen x="1366" y="-128" width="1440" height="860" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728/1366.-128.1440.860@1366.-128.1440.860" timestamp="1576331213444" />
+  </component>
+</project>
